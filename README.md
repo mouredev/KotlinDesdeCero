@@ -30,7 +30,7 @@ Este primer bloque básico consta de 10 clases:
 [![KOTLIN: Curso ANDROID desde CERO - SENTENCIA IF (Parte 1/2)](https://img.youtube.com/vi/QUGFBYIVs4g/0.jpg)](https://www.youtube.com/watch?v=QUGFBYIVs4g)
 [![KOTLIN: Curso ANDROID desde CERO - SENTENCIA IF (Parte 2/2)](https://img.youtube.com/vi/udPbfzfZA_s/0.jpg)](https://www.youtube.com/watch?v=udPbfzfZA_s)
 [![KOTLIN: Curso ANDROID desde CERO - SENTENCIA WHEN](https://img.youtube.com/vi/ufsrPf7vao4/0.jpg)](https://www.youtube.com/watch?v=ufsrPf7vao4)
-[![KOTLIN: Curso ANDROID desde CERO - ARRAYS/ARREGLOS](https://img.youtube.com/vi/VHhc-ndfI-Y/0.jpg)](https://www.youtube.com/watch?v=-VHhc-ndfI-Y)
+[![KOTLIN: Curso ANDROID desde CERO - ARRAYS/ARREGLOS](https://img.youtube.com/vi/VHhc-ndfI-Y/0.jpg)](https://www.youtube.com/watch?v=VHhc-ndfI-Y)
 [![KOTLIN: Curso ANDROID desde CERO - MAPS/DICCIONARIOS](https://img.youtube.com/vi/4gGrkpArlyI/0.jpg)](https://www.youtube.com/watch?v=4gGrkpArlyI)
 [![KOTLIN: Curso ANDROID desde CERO - BUCLE FOR/WHILE](https://img.youtube.com/vi/ln0sub514YQ/0.jpg)](https://www.youtube.com/watch?v=ln0sub514YQ)
 [![KOTLIN: Curso ANDROID desde CERO - NULL SAFETY](https://img.youtube.com/vi/057JbCQ4ico/0.jpg)](https://www.youtube.com/watch?v=057JbCQ4ico)
